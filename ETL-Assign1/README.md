@@ -42,3 +42,5 @@ If you do it correctly, at first there will be three errors (“N/A” values in
 
 Make the necessary change to the data in that sheet to correct the issue so that Credit Line data appears for all the customers.
 
+Raw Data Sheets: [Click Here!](https://github.com/kaymomin/Data-Warehousing/blob/master/ETL-Assign1/ETL-Data%20for%20Assignment%201.xlsx)
+Solution Sheet: [Here you go!](https://github.com/kaymomin/Data-Warehousing/blob/master/ETL-Assign1/K163788_FullSet.xlsx)
